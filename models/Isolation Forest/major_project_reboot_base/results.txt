@@ -1,0 +1,20 @@
+=== MODEL EVALUATION SUMMARY ===
+
+Model: IsolationForest_0.01
+Outlier Percentage: 1.00%
+Model saved to: models/IsolationForest_0.01_20250320_030148.pkl
+
+Model: IsolationForest_0.05
+Outlier Percentage: 5.00%
+Model saved to: models/IsolationForest_0.05_20250320_030213.pkl
+
+Model: IsolationForest_0.1
+Outlier Percentage: 10.00%
+Model saved to: models/IsolationForest_0.1_20250320_030237.pkl
+
+Model: IsolationForest_0.15
+Outlier Percentage: 15.00%
+Model saved to: models/IsolationForest_0.15_20250320_030301.pkl
+
+Analysis complete! Results saved to 'results' directory.
+Models saved to 'models' directory.
